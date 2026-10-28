@@ -5,7 +5,7 @@
 **在做的事**
 
 - [论文写作 SOP](https://github.com/7xiaohui/paper-writing-sop)：中英双语两条产线，8 份中文 SOP、9 步英文流程、6 个检查脚本、16 项自动化验证
-- [河南工伤知识库](https://github.com/7xiaohui/henan-gongshang-kb)：38 张知识卡、54 份法规原件、43 份条文文本；100 题内部验收 + 30 题 A/B/C 对照，已修正 2 张过期卡。公开为可复现案例，不作“准确率 100%”承诺
+- [河南工伤政策知识库](https://github.com/7xiaohui/henan-gongshang-kb)：38 张知识卡、54 份法规原件、43 份条文文本；100 题内部验收 + 30 题 A/B/C 对照。公开为可复现案例，不作“准确率 100%”承诺。
 - [个人主页](https://7xiaohui.github.io/)：上面这些事的入口
 
 **关注**
